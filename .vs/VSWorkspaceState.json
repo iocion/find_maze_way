@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Maze_way"
+    "\\Maze_way",
+    "\\Maze_way\\Debug\\Maze_way.tlog",
+    "\\Maze_way\\Maze_way",
+    "\\Maze_way\\Maze_way\\x64",
+    "\\Maze_way\\Maze_way\\x64\\Debug",
+    "\\Maze_way\\Maze_way\\x64\\Debug\\Maze_way.tlog",
+    "\\Maze_way\\x64\\Debug"
   ],
-  "SelectedNode": "\\Maze_way\\.gitignore",
+  "SelectedNode": "\\Maze_way\\Maze_way\\x64",
   "PreviewInSolutionExplorer": false
 }
