@@ -11,5 +11,10 @@
 #include <algorithm>
 #include <cmath>
 #include <windows.h>
+#include <chrono>  //用来作为计时器
+#include <cstdio>  //使用printf
+
+//主要放置使用来配置的头文件
+
 
 #endif // EASYX_CONFIG_H

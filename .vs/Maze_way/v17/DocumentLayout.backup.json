@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\27426\\source\\repos\\Maze_way\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\maze_solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\maze_solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\global_vars.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\easyx_config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\easyx_config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\maze_solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\global_vars.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\Maze_way.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maze_way\\Maze_way.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\.gitignore",
-              "RelativeDocumentMoniker": "Maze_way\\.gitignore",
-              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\.gitignore",
-              "RelativeToolTip": "Maze_way\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T03:28:07.259Z",
+              "DocumentIndex": 3,
+              "Title": "easyx_config.h",
+              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\easyx_config.h",
+              "RelativeDocumentMoniker": "Maze_way\\easyx_config.h",
+              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\easyx_config.h",
+              "RelativeToolTip": "Maze_way\\easyx_config.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-21T04:22:19.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "global_vars.cpp",
+              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.cpp",
+              "RelativeDocumentMoniker": "Maze_way\\global_vars.cpp",
+              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.cpp",
+              "RelativeToolTip": "Maze_way\\global_vars.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T09:06:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Maze_way.vcxproj",
+              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\Maze_way.vcxproj",
+              "RelativeDocumentMoniker": "Maze_way\\Maze_way.vcxproj",
+              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\Maze_way.vcxproj",
+              "RelativeToolTip": "Maze_way\\Maze_way.vcxproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2024-12-22T03:40:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "maze_solver.h",
+              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.h",
+              "RelativeDocumentMoniker": "Maze_way\\maze_solver.h",
+              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.h",
+              "RelativeToolTip": "Maze_way\\maze_solver.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-21T04:22:03.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "global_vars.h",
+              "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.h",
+              "RelativeDocumentMoniker": "Maze_way\\global_vars.h",
+              "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\global_vars.h",
+              "RelativeToolTip": "Maze_way\\global_vars.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-21T04:21:59.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "maze_solver.cpp",
               "DocumentMoniker": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.cpp",
               "RelativeDocumentMoniker": "Maze_way\\maze_solver.cpp",
               "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\maze_solver.cpp",
               "RelativeToolTip": "Maze_way\\maze_solver.cpp",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAADwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-20T15:04:54.496Z"
+              "WhenOpened": "2024-12-20T15:04:54.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +133,7 @@
               "RelativeDocumentMoniker": "Maze_way\\main.cpp",
               "ToolTip": "C:\\Users\\27426\\source\\repos\\Maze_way\\Maze_way\\main.cpp",
               "RelativeToolTip": "Maze_way\\main.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-19T16:50:33.421Z",
               "EditorCaption": ""
